@@ -32,6 +32,7 @@ Step by step guide to becoming a Cyber Security Expert in 2023
 
 ## Operating Systems
 - ✅ Kali Linux
+    - [Kali Linux for Beginners](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)
 - ⬜️ Windows
 - ⬜️ MacOS
 - Learn following for Each
