@@ -19,7 +19,7 @@ Currect roadmap to becoming a Penetration Tester.
 
 ## Popular Penetration Testing Tools
  * **Popular Penetration Testing Distro**
-    - ✅ Kali Linux
+    - ✅ Kali Linux **7.5 hours** **[Kali Linux Tutorial For Beginners](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)**
  * **Web Applications Tools**
    * BurpSuite
    * Nikto
