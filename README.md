@@ -30,7 +30,8 @@ Step by step guide to becoming a Cyber Security Expert in 2023
     - ⬜️ Microsoft Office Suite
 
 ## Operating Systems
-    - ✅ Kali Linux **7.5 hours** https://www.udemy.com/course/kali-linux-tutorial-for-beginners/
+    - ✅ Kali Linux
+        - **7.5 hours** [Kali Linux for Beginngers](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)
     - ⬜️ Windows
     - ⬜️ MacOS
         - Installation and Configuration
