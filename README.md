@@ -31,22 +31,22 @@ Step by step guide to becoming a Cyber Security Expert in 2023
     - ⬜️ Microsoft Office Suite
 
 ## Operating Systems
-    - ✅ Kali Linux
-    - ⬜️ Windows
-    - ⬜️ MacOS
-    - Learn following for Each
-        - Installation and Configuration
-        - Different Versions and Differences
-        - Navigating using GUI and CLI
-        - Understand Permissions
-        - Installing Software and Applications
-        - Performing CRUD on Files
-        - Troubleshooting
-        - Common Commands
+- ✅ Kali Linux
+- ⬜️ Windows
+- ⬜️ MacOS
+- Learn following for Each
+    - Installation and Configuration
+    - Different Versions and Differences
+    - Navigating using GUI and CLI
+    - Understand Permissions
+    - Installing Software and Applications
+    - Performing CRUD on Files
+    - Troubleshooting
+    - Common Commands
 
 ## Networking Knowledge
-    - Understand the OSI model
-    - Common Protocols and their uses
-    - Common Ports and their uses
-    - SSL and TLS Basics
-    - Basics of NAS and SAN
+- Understand the OSI model
+- Common Protocols and their uses
+- Common Ports and their uses
+- SSL and TLS Basics
+- Basics of NAS and SAN
