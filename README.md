@@ -34,7 +34,7 @@ Step by step guide to becoming a Cyber Security Expert in 2023
     - ✅ Kali Linux
     - ⬜️ Windows
     - ⬜️ MacOS
-    ** Learn following for Each **
+    - Learn following for Each
         - Installation and Configuration
         - Different Versions and Differences
         - Navigating using GUI and CLI
@@ -43,3 +43,10 @@ Step by step guide to becoming a Cyber Security Expert in 2023
         - Performing CRUD on Files
         - Troubleshooting
         - Common Commands
+
+## Networking Knowledge
+    - Understand the OSI model
+    - Common Protocols and their uses
+    - Common Ports and their uses
+    - SSL and TLS Basics
+    - Basics of NAS and SAN
