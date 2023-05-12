@@ -6,7 +6,7 @@ Currect roadmap to becoming a Penetration Tester.
 
 ## The Framework of Understanding a Vulnerability
  * **Find**
-   - [x] How do you Enumerate the vulnerability?
+   :heavy_check_mark: How do you Enumerate the vulnerability?
  * **Exploit**
    - [x] How do you Exploit the vulnerability?
  * **Fix**
@@ -19,7 +19,7 @@ Currect roadmap to becoming a Penetration Tester.
 
 ## Popular Penetration Testing Tools
  * **Popular Penetration Testing Distro**
-    - [x] Kali Linux
+    :heavy_check_mark: Kali Linux
  * **Web Applications Tools**
    * BurpSuite
    * Nikto
