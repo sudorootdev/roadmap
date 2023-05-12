@@ -1,23 +1,26 @@
 # Starting Roadmap
  
-Currect roadmap to becoming a Penetration Tester.
+Step by step guide to becoming a Cyber Security Expert in 2023
 
--------
-
-## The Framework of Understanding a Vulnerability
- * **Find**
-   - ✅ How do you Enumerate the vulnerability?
- * **Exploit**
-   - [x] How do you Exploit the vulnerability?
- * **Fix**
-   - [x] What are the modern and recommended fixes for the vulnerability?
- * **Bypass**
-   - [x] What protections don't work, and how can you bypass weak mitigations that lazy developers implement?
- 
  -------
 # Table of Contents
 
-## Popular Penetration Testing Tools
+## CTFs (Capture the Flag)
+- HackTheBox **(Ongoing)**
+
+## Funamental IT Skills
+- Computer Hardware Components
+- Connection Types and their function
+    - NFC
+    - WiFi
+    - Bluetooth
+    - Infrared
+- OS-Indepenant Troubleshooting
+- Understand Basics of Popular Suites
+    - iCloud
+    - Google Suite
+    - Microsoft Office Suite
+
  * **Popular Penetration Testing Distro**
     - ✅ Kali Linux **7.5 hours** **[Kali Linux Tutorial For Beginners](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)**
  * **Web Applications Tools**
