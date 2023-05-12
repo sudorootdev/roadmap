@@ -18,11 +18,8 @@ Currect roadmap to becoming a Penetration Tester.
 # Table of Contents
 
 ## Popular Penetration Testing Tools
- * **Popular Penetration Testing Distros**
-    * Kali Linux
-    * Parrot
-    * BackBox
-    * BlackArch
+ * **Popular Penetration Testing Distro**
+    - [x] Kali Linux
  * **Web Applications Tools**
    * BurpSuite
    * Nikto
