@@ -19,7 +19,7 @@ Currect roadmap to becoming a Penetration Tester.
 
 ## Popular Penetration Testing Tools
  * **Popular Penetration Testing Distro**
-    :heavy_check_mark: Kali Linux
+    * :heavy_check_mark: Kali Linux
  * **Web Applications Tools**
    * BurpSuite
    * Nikto
