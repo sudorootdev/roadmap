@@ -8,21 +8,32 @@ Step by step guide to becoming a Cyber Security Expert in 2023
 ## CTFs (Capture the Flag)
 - HackTheBox **(Ongoing)**
 
-## Funamental IT Skills
-- Computer Hardware Components
-- Connection Types and their function
-    - NFC
-    - WiFi
-    - Bluetooth
-    - Infrared
-- OS-Indepenant Troubleshooting
-- Understand Basics of Popular Suites
-    - iCloud
-    - Google Suite
-    - Microsoft Office Suite
+## Certifications
+- ⬜️ CompTIA A+
+- ⬜️ CompTIA Security+
+- ⬜️ CompTIA Network+
+- ⬜️ CompTIA Linux+
+- ⬜️ eJPT
+- ⬜️ OSCP
 
- * **Popular Penetration Testing Distro**
+## Funamental IT Skills
+- ⬜️ Computer Hardware Components
+- ⬜️ Connection Types and their function
+    - ⬜️ NFC
+    - ⬜️ WiFi
+    - ⬜️ Bluetooth
+    - ⬜️ Infrared
+- ⬜️ OS-Indepenant Troubleshooting
+- ⬜️ Understand Basics of Popular Suites
+    - ⬜️ iCloud
+    - ⬜️ Google Suite
+    - ⬜️ Microsoft Office Suite
+
+## Operating Systems
     - ✅ Kali Linux **7.5 hours** **[Kali Linux Tutorial For Beginners](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)**
+    - ⬜️ Windows
+    - ⬜️ MacOS
+        - Installation and Configuration
  * **Web Applications Tools**
    * BurpSuite
    * Nikto
