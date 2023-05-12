@@ -31,8 +31,7 @@ Step by step guide to becoming a Cyber Security Expert in 2023
     - ⬜️ Microsoft Office Suite
 
 ## Operating Systems
-    - ✅ Kali Linux
-        - [Kali Linux for Beginngers](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)
+    - ✅ [RStudio Devtools](http://www.rstudio.com/products/rpackages/devtools/)
     - ⬜️ Windows
     - ⬜️ MacOS
         - Installation and Configuration
