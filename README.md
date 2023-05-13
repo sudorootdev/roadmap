@@ -1,6 +1,6 @@
 # Starting Roadmap
  
-Step by step guide to becoming a Cyber Security Expert in 2023
+My journey and roadmap in Cyber Security in 2023
 
  -------
 # Table of Contents
