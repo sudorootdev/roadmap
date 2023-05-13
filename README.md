@@ -32,22 +32,69 @@ Step by step guide to becoming a Cyber Security Expert in 2023
 
 ## Operating Systems
 - ✅ Kali Linux
-    - [Kali Linux for Beginners](https://www.udemy.com/course/kali-linux-tutorial-for-beginners/)
 - ⬜️ Windows
 - ⬜️ MacOS
 - Learn following for Each
-    - Installation and Configuration
-    - Different Versions and Differences
-    - Navigating using GUI and CLI
-    - Understand Permissions
-    - Installing Software and Applications
-    - Performing CRUD on Files
-    - Troubleshooting
-    - Common Commands
+    - ⬜️ Installation and Configuration
+    - ⬜️Different Versions and Differences
+    - ⬜️ Navigating using GUI and CLI
+    - ⬜️ Understand Permissions
+    - ⬜️ Installing Software and Applications
+    - ⬜️ Performing CRUD on Files
+    - ⬜️ Troubleshooting
+    - ⬜️ Common Commands
 
 ## Networking Knowledge
-- Understand the OSI model
-- Common Protocols and their uses
-- Common Ports and their uses
-- SSL and TLS Basics
-- Basics of NAS and SAN
+- ⬜️ Understand the OSI model
+- ⬜️ Common Protocols and their uses
+- ⬜️ Common Ports and their uses
+- ⬜️ SSL and TLS Basics
+- ⬜️ Basics of NAS and SAN
+
+## Basics of Subnetting
+- ⬜️ Public vs Private IP Addresses
+- IP Terminology
+    - ⬜️ localhost
+    - ⬜️ loopback
+    - ⬜️ CIDR
+    - ⬜️ subnet mask
+    - ⬜️ default gateway
+- Understand the Terminology
+    - ⬜️ VLAN
+    - ⬜️ DMZ
+    - ⬜️ ARP
+    - ⬜️ VM
+    - ⬜️ NAT
+    - ⬜️ IP
+    - ⬜️ DNS
+    - ⬜️ DHCP
+    - ⬜️ Router
+    - ⬜️ Switch
+    - ⬜️ VPN
+- Understsand these
+    - ⬜️ MAN
+    - ⬜️ LAN
+    - ⬜️ WAN
+    - ⬜️ WLAN
+- Function of Each
+    - ⬜️ DHCP
+    - ⬜️ DNS
+    - ⬜️ NTP
+    - ⬜️ IPAM
+- Network Topologies
+    - ⬜️ Star
+    - ⬜️ Ring
+    - ⬜️ Mesh
+    - ⬜️ Bus
+- Understand Common Protocols
+    - ⬜️ SSH
+    - ⬜️ RDP
+    - ⬜️ FTP
+    - ⬜️ SFTP
+    - ⬜️ HTTP / HTTPS
+    - ⬜️ SSL / TLS
+- Common Virtualization Technologies
+    - ⬜️ VMWare
+    - ⬜️ Virtualbox
+    - ⬜️ esxi
+    - ⬜️ proxmax
